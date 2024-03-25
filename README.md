@@ -1,5 +1,5 @@
 # hapi-hapi-hapi-project
-Performed by: Anastasia Ponomareva
+Подготовила: Пономарева Анастасия
 # Опрос студентов факультета
 
 ## Введение
